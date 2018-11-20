@@ -1,0 +1,16 @@
+c:\users\diego.serna\source\repos\AppXamarin\AppXamarin\AppXamarin\bin\Debug\netstandard2.0\AppXamarin.deps.json
+c:\users\diego.serna\source\repos\AppXamarin\AppXamarin\AppXamarin\bin\Debug\netstandard2.0\AppXamarin.dll
+c:\users\diego.serna\source\repos\AppXamarin\AppXamarin\AppXamarin\bin\Debug\netstandard2.0\AppXamarin.pdb
+c:\users\diego.serna\source\repos\AppXamarin\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\AppXamarin.csprojAssemblyReference.cache
+c:\users\diego.serna\source\repos\AppXamarin\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+c:\users\diego.serna\source\repos\AppXamarin\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+c:\users\diego.serna\source\repos\AppXamarin\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+c:\users\diego.serna\source\repos\AppXamarin\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+c:\users\diego.serna\source\repos\AppXamarin\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+c:\users\diego.serna\source\repos\AppXamarin\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+c:\users\diego.serna\source\repos\AppXamarin\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\AppXamarin.csproj.CoreCompileInputs.cache
+c:\users\diego.serna\source\repos\AppXamarin\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\AppXamarin.AssemblyInfoInputs.cache
+c:\users\diego.serna\source\repos\AppXamarin\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\AppXamarin.AssemblyInfo.cs
+c:\users\diego.serna\source\repos\AppXamarin\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+c:\users\diego.serna\source\repos\AppXamarin\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\AppXamarin.dll
+c:\users\diego.serna\source\repos\AppXamarin\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\AppXamarin.pdb
